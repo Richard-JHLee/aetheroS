@@ -283,7 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub**: [@Richard-JHLee](https://github.com/Richard-JHLee)
-- **Email**: [Your Email]
+- **Email**: [hanul0202@gmail.com]
 - **Discord**: [Community Server]
 
 ---
